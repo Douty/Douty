@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 About Me
+Im a new grad software engineer that is passionate about building full stack desktop and web applications! Outside of developing software, i enjoy 3D modeling scenes on blender and playing games.
 
 <!--
 **Douty/Douty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
