@@ -8,7 +8,7 @@
 
 ###  Upcoming Plans 🌱
 - Currently creating my own HTTP Server
-  - I want learn more about the TCP Protocol, new HTTP 3.0 functionalities and general system design
+  - I want learn more about the TCP Protocol, new HTTP 3.0 features and general system design
 
 ### Contact me
 - Personal Email: Doutymanigat@gmail.com
