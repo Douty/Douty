@@ -17,13 +17,13 @@
 
 ## My tech stack
 ### Languages
-![My Languages](https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&perline=8)
+![My Languages](https://skillicons.dev/icons?i=python,cpp,js,ts,go,java&perline=8)
 <br />
 ### Frameworks
 ![My Frameworks](https://skillicons.dev/icons?i=fastapi,nodejs,flask,express,spring,react&perline=8)
 
 ### Developer Tools
-![Developer Tools](https://skillicons.dev/icons?i=git,visualstudio,vscode,docker,redis,pycharm&perline=6)
+![Developer Tools](https://skillicons.dev/icons?i=git,azure,githubactions,docker,redis&perline=6)
 
 ### Database
 ![Database](https://skillicons.dev/icons?i=mongodb,postgres&perline=2)
